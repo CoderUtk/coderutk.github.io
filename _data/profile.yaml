@@ -1,10 +1,9 @@
 name: Utkarsh Agrawal
 title: Full Stack Developer
-firstName: ""
-lastName: ""
-email: hello@blackode.in
-phone: 09494507287
-website: https://blackode.in
+firstName: "Utkarsh"
+lastName: "Agrawal"
+email: utkarshg08@gmail.com
+phone: +91-9969208352
 description: > # This means ignore new line until
     Professional Full Stack Software Developer with 3+ years experience. Recent works include the Industrial
     Automation Software development- SCADA for Solar Plants. Knowledgeable in Linux environment and interested in developing Shell Automation scripts
@@ -13,14 +12,9 @@ description: > # This means ignore new line until
     on Programming Tips and share to the world (Youtube). I love coding in Vim Editor.
 
 social:
-  accounts: facebook,behance,youtube,twitter,medium,linkedin,github # add new account here and link in following
+  accounts: linkedin,github # add new account here and link in following
   linkedin: https://linkedin.com/in/blackode
-  twitter: https://twitter.com/tweetblackode
-  facebook: https://facebook.com/ankanna
-  youtube: https://youtube.com/c/blackodee
-  medium: https://medium.com/blackode
   github: https://github.com/blackode
-  behance: https://behance.net/blackode
 
 
 

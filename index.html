@@ -6,19 +6,13 @@ layout: default
     {% include header.html %}
 </section>
 
-<section id="contacts-bar" >
-
+<section id="contacts-bar" class="theme-blue element" >
     {% include nav.html class="justify-content-center" links = site.data.contact-links type="contacts-bar" %}
-
 </section>
-
 
 <section id="navigation-bar" >
-
     {% include nav.html class="justify-content-center" links = site.data.links type="navbar" %}
-
 </section>
-
 
 <section id="experiences"  class="section";>
     {% include experiences.html experiences=site.data.experiences %}
