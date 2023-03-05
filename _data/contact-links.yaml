@@ -1,0 +1,11 @@
+- title: utkarshg08@gmail.com
+  link: 'mailto: utkarshg08@gmail.com'
+  icon-class: "fa fa-envelope"
+
+- title: "+91-9969208352"
+  link: 'phone: +919969208352'
+  icon-class: "fa fa-phone"
+
+- title: blackode.in
+  link: 'https://blackode.in'
+  icon-class: "fa fa-globe"
