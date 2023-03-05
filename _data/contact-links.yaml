@@ -6,6 +6,10 @@
   link: 'phone: +919969208352'
   icon-class: "fa fa-phone"
 
-- title: blackode.in
-  link: 'https://blackode.in'
-  icon-class: "fa fa-globe"
+- title: linkedin.com/in/utkarsh08
+  link: 'www.linkedin.com/in/utkarsh08/'
+  icon-class: "fa fa-linkedin"
+
+- title: github.com/CoderUtk
+  link: 'https://github.com/CoderUtk'
+  icon-class: "fa fa-github"
